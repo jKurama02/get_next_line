@@ -6,7 +6,7 @@
 /*   By: anmedyns <anmedyns@student.42roma.it>      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/02/01 11:19:43 by anmedyns          #+#    #+#             */
-/*   Updated: 2024/03/05 20:19:43 by anmedyns         ###   ########.fr       */
+/*   Updated: 2024/05/21 19:57:42 by anmedyns         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -22,9 +22,8 @@
 # include <limits.h>
 # include <fcntl.h>
 
-# ifndef BUFFER_SIZE 
+# ifndef BUFFER_SIZE
 # define BUFFER_SIZE 1024
-
 
 # endif
 
